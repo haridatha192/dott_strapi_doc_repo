@@ -1,0 +1,50 @@
+{
+  "collectionName": "components_components_stakings",
+  "info": {
+    "displayName": "staking",
+    "icon": "stack",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "stakingtitle": {
+      "type": "string"
+    },
+    "stakedesc": {
+      "type": "text"
+    },
+    "stakefeatures": {
+      "type": "string"
+    },
+    "stakerewards": {
+      "type": "string"
+    },
+    "stakerewardtext": {
+      "type": "text"
+    },
+    "stakemechanisam": {
+      "type": "string"
+    },
+    "stakemechtext": {
+      "type": "text"
+    },
+    "enhancedengagement": {
+      "type": "string"
+    },
+    "enhancetext": {
+      "type": "text"
+    },
+    "communitybinding": {
+      "type": "string"
+    },
+    "communitytext": {
+      "type": "text"
+    },
+    "stakelist": {
+      "type": "string"
+    },
+    "stakelist2": {
+      "type": "string"
+    }
+  }
+}
