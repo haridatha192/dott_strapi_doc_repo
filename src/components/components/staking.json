@@ -45,6 +45,126 @@
     },
     "stakelist2": {
       "type": "string"
+    },
+    "unstake": {
+      "type": "string"
+    },
+    "unstaketext": {
+      "type": "text"
+    },
+    "unstakedesc": {
+      "type": "string"
+    },
+    "unstakedesctext": {
+      "type": "text"
+    },
+    "UserUnderstanding": {
+      "type": "string"
+    },
+    "UserUnderstandingtext": {
+      "type": "text"
+    },
+    "Flexibility": {
+      "type": "string"
+    },
+    "Flexibilitytext": {
+      "type": "text"
+    },
+    "Liquidity": {
+      "type": "string"
+    },
+    "Liquiditytext": {
+      "type": "text"
+    },
+    "nolock": {
+      "type": "string"
+    },
+    "nolocktext": {
+      "type": "text"
+    },
+    "usercentic": {
+      "type": "string"
+    },
+    "usercentictext": {
+      "type": "text"
+    },
+    "unstakelist": {
+      "type": "text"
+    },
+    "unstakelist2": {
+      "type": "text"
+    },
+    "withdraw": {
+      "type": "string"
+    },
+    "withdrawdesc": {
+      "type": "text"
+    },
+    "withdrawuser": {
+      "type": "string"
+    },
+    "withdrawusertext": {
+      "type": "text"
+    },
+    "withdrawtypes": {
+      "type": "string"
+    },
+    "InstantWithdrawal": {
+      "type": "string"
+    },
+    "InstantWithdrawaltext": {
+      "type": "text"
+    },
+    "FlexibleWithdrawal": {
+      "type": "string"
+    },
+    "FlexibleWithdrawaltext": {
+      "type": "text"
+    },
+    "SecureWithdrawl": {
+      "type": "string"
+    },
+    "Securewithdrawltext": {
+      "type": "text"
+    },
+    "LowTransaction": {
+      "type": "string"
+    },
+    "LowTransactiontext": {
+      "type": "text"
+    },
+    "MultipleWithdrawal": {
+      "type": "string"
+    },
+    "MultipleWithdrawaltext": {
+      "type": "text"
+    },
+    "WithdrawalAvail": {
+      "type": "string"
+    },
+    "WithdrawalAvailtext": {
+      "type": "text"
+    },
+    "TransparentWithdrawal": {
+      "type": "string"
+    },
+    "TransparentWithdrawaltxt": {
+      "type": "text"
+    },
+    "WithdrawalConfirm": {
+      "type": "string"
+    },
+    "WithdrawalConfirmtxt": {
+      "type": "text"
+    },
+    "Withdrawallist": {
+      "type": "text"
+    },
+    "Withdrawallist2": {
+      "type": "text"
+    },
+    "rewards": {
+      "type": "richtext"
     }
   }
 }

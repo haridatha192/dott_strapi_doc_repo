@@ -878,6 +878,8 @@ export interface ApiDocDoc extends Schema.CollectionType {
     starnull: Attribute.Media;
     stake: Attribute.Component<'components.staking'>;
     stakeimg: Attribute.Media;
+    unstakeimg: Attribute.Media;
+    withdrawimg: Attribute.Media;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;
     publishedAt: Attribute.DateTime;
