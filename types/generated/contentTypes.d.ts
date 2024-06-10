@@ -880,6 +880,11 @@ export interface ApiDocDoc extends Schema.CollectionType {
     stakeimg: Attribute.Media;
     unstakeimg: Attribute.Media;
     withdrawimg: Attribute.Media;
+    rewardimg: Attribute.Media;
+    tiers: Attribute.Component<'components.tier'>;
+    projects: Attribute.Component<'components.projects'>;
+    daos: Attribute.Component<'components.daos'>;
+    ApplyIVO: Attribute.Component<'components.applyivos'>;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;
     publishedAt: Attribute.DateTime;

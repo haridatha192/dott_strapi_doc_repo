@@ -163,8 +163,71 @@
     "Withdrawallist2": {
       "type": "text"
     },
-    "rewards": {
-      "type": "richtext"
+    "Rewards": {
+      "type": "string"
+    },
+    "rewarddesc": {
+      "type": "text"
+    },
+    "StakingRewards": {
+      "type": "string"
+    },
+    "StakingRewardstext": {
+      "type": "text"
+    },
+    "miningrewards": {
+      "type": "string"
+    },
+    "miningrewardstext": {
+      "type": "text"
+    },
+    "ParticipationRewards": {
+      "type": "string"
+    },
+    "ParticipationRewardstxt": {
+      "type": "text"
+    },
+    "ReferralRewards": {
+      "type": "string"
+    },
+    "ReferralRewardstxt": {
+      "type": "text"
+    },
+    "DeveloperRewards": {
+      "type": "string"
+    },
+    "DeveloperRewardstext": {
+      "type": "text"
+    },
+    "UserOwnership": {
+      "type": "string"
+    },
+    "UserOwnershiptxt": {
+      "type": "text"
+    },
+    "Interoperability": {
+      "type": "string"
+    },
+    "Interoperabilitytxt": {
+      "type": "text"
+    },
+    "SecurityPrivacy": {
+      "type": "string"
+    },
+    "SecurityPrivacytxt": {
+      "type": "text"
+    },
+    "CommunityGovernance": {
+      "type": "string"
+    },
+    "CommunityGovernancetxt": {
+      "type": "text"
+    },
+    "rewardslist": {
+      "type": "text"
+    },
+    "rewardslist2": {
+      "type": "text"
     }
   }
 }

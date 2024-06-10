@@ -122,14 +122,46 @@
       ]
     },
     "withdrawimg": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
       "allowedTypes": [
         "images",
         "files",
         "videos",
         "audios"
-      ],
+      ]
+    },
+    "rewardimg": {
       "type": "media",
-      "multiple": false
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "tiers": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.tier"
+    },
+    "projects": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.projects"
+    },
+    "daos": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.daos"
+    },
+    "ApplyIVO": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.applyivos"
     }
   }
 }

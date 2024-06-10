@@ -1,0 +1,179 @@
+{
+  "collectionName": "components_components_daos",
+  "info": {
+    "displayName": "daos",
+    "icon": "feather",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "WhatDAOs": {
+      "type": "string"
+    },
+    "daodesc": {
+      "type": "text"
+    },
+    "KeyFeaturesDAOs": {
+      "type": "string"
+    },
+    "Decentralization": {
+      "type": "string"
+    },
+    "Decentralizationtxt": {
+      "type": "string"
+    },
+    "Autonomy": {
+      "type": "string"
+    },
+    "Autonomytxt": {
+      "type": "string"
+    },
+    "Transparency": {
+      "type": "string"
+    },
+    "Transparencytxt": {
+      "type": "string"
+    },
+    "SmartContracts": {
+      "type": "string"
+    },
+    "SmartContracts1": {
+      "type": "string"
+    },
+    "SmartContracts2": {
+      "type": "string"
+    },
+    "TokenEnthusiasts": {
+      "type": "string"
+    },
+    "TokenEnthusiaststxt": {
+      "type": "string"
+    },
+    "ProposalListing": {
+      "type": "string"
+    },
+    "ProposalListingdesc": {
+      "type": "text"
+    },
+    "ProposalListing1": {
+      "type": "text"
+    },
+    "ProposalListing2": {
+      "type": "string"
+    },
+    "ProposalListing3": {
+      "type": "string"
+    },
+    "ProposalListing4": {
+      "type": "text"
+    },
+    "Benefitsofdaos": {
+      "type": "string"
+    },
+    "TrustlessCollaboration": {
+      "type": "string"
+    },
+    "TrustlessCollaborationtxt": {
+      "type": "string"
+    },
+    "GlobalParticipation": {
+      "type": "string"
+    },
+    "GlobalParticipationtxt": {
+      "type": "string"
+    },
+    "ReducedOperational": {
+      "type": "string"
+    },
+    "ReducedOperationaltxt": {
+      "type": "text"
+    },
+    "EnhancedSecurity": {
+      "type": "string"
+    },
+    "EnhancedSecuritytxt": {
+      "type": "string"
+    },
+    "ChallengesDAOs": {
+      "type": "string"
+    },
+    "LegalRegulatory": {
+      "type": "string"
+    },
+    "LegalRegulatorytxt": {
+      "type": "text"
+    },
+    "CodeVulnerability": {
+      "type": "string"
+    },
+    "CodeVulnerabilitytxt": {
+      "type": "text"
+    },
+    "Governance": {
+      "type": "string"
+    },
+    "Governancetxt": {
+      "type": "string"
+    },
+    "ChallengesDAOsdesc": {
+      "type": "text"
+    },
+    "ProposalCreation": {
+      "type": "string"
+    },
+    "ProposalCreationdesc": {
+      "type": "text"
+    },
+    "UserUnderstanding": {
+      "type": "string"
+    },
+    "Ourplatform": {
+      "type": "string"
+    },
+    "ProposalCreators": {
+      "type": "string"
+    },
+    "ProposalCreatorstxt": {
+      "type": "text"
+    },
+    "ProposalVoters": {
+      "type": "string"
+    },
+    "ProposalVoterstxt": {
+      "type": "string"
+    },
+    "VotingMechanism": {
+      "type": "string"
+    },
+    "VotingMechanism1": {
+      "type": "string"
+    },
+    "VotingMechanism2": {
+      "type": "string"
+    },
+    "VotingMechanism3": {
+      "type": "string"
+    },
+    "VotingMechanism4": {
+      "type": "string"
+    },
+    "AutoAcceptance": {
+      "type": "string"
+    },
+    "AutoAcceptance1": {
+      "type": "string"
+    },
+    "AutoAcceptance2": {
+      "type": "string"
+    },
+    "AutoAcceptance3": {
+      "type": "string"
+    },
+    "AutoAcceptance4": {
+      "type": "string"
+    },
+    "proposalsummary": {
+      "type": "string"
+    }
+  }
+}

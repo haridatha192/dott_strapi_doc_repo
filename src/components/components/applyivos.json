@@ -1,0 +1,226 @@
+{
+  "collectionName": "components_components_applyivos",
+  "info": {
+    "displayName": "applyivos",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "ApplyIVO": {
+      "type": "string"
+    },
+    "ApplyIVOdesc": {
+      "type": "string"
+    },
+    "StepsApply": {
+      "type": "string"
+    },
+    "ResearchIVO": {
+      "type": "string"
+    },
+    "ResearchIVO1": {
+      "type": "string"
+    },
+    "ResearchIVO2": {
+      "type": "string"
+    },
+    "PrepareYour": {
+      "type": "string"
+    },
+    "PrepareYour1": {
+      "type": "string"
+    },
+    "PrepareYour2": {
+      "type": "string"
+    },
+    "PrepareYour3": {
+      "type": "string"
+    },
+    "PrepareYour4": {
+      "type": "string"
+    },
+    "StakingFinancial": {
+      "type": "string"
+    },
+    "StakingFinancial1": {
+      "type": "string"
+    },
+    "StakingFinancial2": {
+      "type": "string"
+    },
+    "SubmitApplication": {
+      "type": "string"
+    },
+    "SubmitApplication1": {
+      "type": "string"
+    },
+    "SubmitApplication2": {
+      "type": "string"
+    },
+    "SubmitApplication3": {
+      "type": "string"
+    },
+    "FollowUp": {
+      "type": "string"
+    },
+    "FollowUp1": {
+      "type": "string"
+    },
+    "FollowUp2": {
+      "type": "string"
+    },
+    "TipsSuccessful": {
+      "type": "string"
+    },
+    "TipsSuccessful1": {
+      "type": "string"
+    },
+    "TipsSuccessful2": {
+      "type": "string"
+    },
+    "TipsSuccessful3": {
+      "type": "string"
+    },
+    "TipsSuccessful4": {
+      "type": "string"
+    },
+    "ExampleApplication": {
+      "type": "string"
+    },
+    "PersonalInformation": {
+      "type": "string"
+    },
+    "Personalname": {
+      "type": "string"
+    },
+    "Personalcontact": {
+      "type": "string"
+    },
+    "ProfessionalBackground": {
+      "type": "string"
+    },
+    "Summary": {
+      "type": "string"
+    },
+    "Experience": {
+      "type": "string"
+    },
+    "TechnicalExpertise": {
+      "type": "string"
+    },
+    "Skills": {
+      "type": "string"
+    },
+    "TechnicalProjects": {
+      "type": "string"
+    },
+    "CommunityContribution": {
+      "type": "string"
+    },
+    "Involvement": {
+      "type": "string"
+    },
+    "Contributions": {
+      "type": "string"
+    },
+    "StakingCommitment": {
+      "type": "string"
+    },
+    "Conclusion": {
+      "type": "string"
+    },
+    "conclusionSummary": {
+      "type": "string"
+    },
+    "selectERC20token": {
+      "type": "string"
+    },
+    "ercdesc": {
+      "type": "string"
+    },
+    "ProjectName": {
+      "type": "string"
+    },
+    "ProjectName1": {
+      "type": "string"
+    },
+    "ProjectName2": {
+      "type": "string"
+    },
+    "ListingInformation": {
+      "type": "string"
+    },
+    "ListingInformation1": {
+      "type": "string"
+    },
+    "TokenInformation": {
+      "type": "string"
+    },
+    "TokenImage": {
+      "type": "string"
+    },
+    "BannerImage": {
+      "type": "string"
+    },
+    "TokenContract": {
+      "type": "string"
+    },
+    "TokenSymbol": {
+      "type": "string"
+    },
+    "TokenDetails": {
+      "type": "string"
+    },
+    "TeamSection": {
+      "type": "string"
+    },
+    "CastandCrew": {
+      "type": "string"
+    },
+    "CastandCrewname": {
+      "type": "string"
+    },
+    "CastandCrewrole": {
+      "type": "string"
+    },
+    "CastandCrewbio": {
+      "type": "string"
+    },
+    "CastandCrewsmm": {
+      "type": "string"
+    },
+    "insta": {
+      "type": "string"
+    },
+    "fb": {
+      "type": "string"
+    },
+    "twitter": {
+      "type": "string"
+    },
+    "TokenSaleInformation": {
+      "type": "string"
+    },
+    "TokenPrice": {
+      "type": "string"
+    },
+    "PrivateSale": {
+      "type": "string"
+    },
+    "PublicSale": {
+      "type": "string"
+    },
+    "ClaimSlots": {
+      "type": "string"
+    },
+    "ClaimSlots1": {
+      "type": "string"
+    },
+    "VestingTime": {
+      "type": "string"
+    },
+    "VestingTime1": {
+      "type": "string"
+    }
+  }
+}

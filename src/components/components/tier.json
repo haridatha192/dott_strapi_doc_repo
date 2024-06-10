@@ -1,0 +1,353 @@
+{
+  "collectionName": "components_components_tiers",
+  "info": {
+    "displayName": "tier",
+    "icon": "star",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Tiers": {
+      "type": "string"
+    },
+    "BronzeTier": {
+      "type": "string"
+    },
+    "BronzeTierbadge": {
+      "type": "string"
+    },
+    "Bronzedesc": {
+      "type": "string"
+    },
+    "BronzTierPurpose": {
+      "type": "string"
+    },
+    "BronzTierPurposetxt": {
+      "type": "text"
+    },
+    "StructureLevels": {
+      "type": "string"
+    },
+    "StructureLevelstxt": {
+      "type": "text"
+    },
+    "CriteriaAdvancement": {
+      "type": "string"
+    },
+    "CriteriaAdvancementtxt": {
+      "type": "text"
+    },
+    "SilverTier": {
+      "type": "string"
+    },
+    "silvertierbadge": {
+      "type": "string"
+    },
+    "SilverTierdesc": {
+      "type": "text"
+    },
+    "CriteriaSilverTier": {
+      "type": "string"
+    },
+    "CriteriaSilverTierlist1": {
+      "type": "string"
+    },
+    "CriteriaSilverTierlist2": {
+      "type": "string"
+    },
+    "CriteriaSilverTierlist3": {
+      "type": "string"
+    },
+    "SilverBenefits": {
+      "type": "string"
+    },
+    "SilverBenefits1": {
+      "type": "string"
+    },
+    "SilverBenefits2": {
+      "type": "string"
+    },
+    "SilverBenefits3": {
+      "type": "string"
+    },
+    "SilverBenefits4": {
+      "type": "string"
+    },
+    "SilverBenefits5": {
+      "type": "string"
+    },
+    "SilverBenefits6": {
+      "type": "string"
+    },
+    "EngagementOpportunities": {
+      "type": "string"
+    },
+    "EngagementOpportunities1": {
+      "type": "string"
+    },
+    "EngagementOpportunities2": {
+      "type": "string"
+    },
+    "PathHigherTiers": {
+      "type": "string"
+    },
+    "PathHigherTiersdesc": {
+      "type": "string"
+    },
+    "GoldTier": {
+      "type": "string"
+    },
+    "GoldTierbadge": {
+      "type": "string"
+    },
+    "Positiongold": {
+      "type": "string"
+    },
+    "PositionGoldtxt": {
+      "type": "string"
+    },
+    "CriteriaGold": {
+      "type": "string"
+    },
+    "CriteriaGoldlist1": {
+      "type": "string"
+    },
+    "CriteriaGoldlist2": {
+      "type": "string"
+    },
+    "CriteriaGoldlist3": {
+      "type": "string"
+    },
+    "GoldBenefits": {
+      "type": "string"
+    },
+    "GoldBenefits1": {
+      "type": "string"
+    },
+    "GoldBenefits2": {
+      "type": "string"
+    },
+    "GoldBenefits3": {
+      "type": "string"
+    },
+    "GoldBenefits4": {
+      "type": "string"
+    },
+    "GoldBenefits5": {
+      "type": "string"
+    },
+    "GoldBenefits6": {
+      "type": "string"
+    },
+    "GoldBenefits7": {
+      "type": "string"
+    },
+    "GoldEngagementOpportunities": {
+      "type": "string"
+    },
+    "GoldEngagementtxt": {
+      "type": "string"
+    },
+    "GoldPath": {
+      "type": "string"
+    },
+    "GoldPathtxt": {
+      "type": "string"
+    },
+    "PlatinumTier": {
+      "type": "string"
+    },
+    "PlatinumTierbadge": {
+      "type": "string"
+    },
+    "PlatinumTierdesc": {
+      "type": "text"
+    },
+    "positionPlatinumTier": {
+      "type": "string"
+    },
+    "PositionPlatinumTiertxt": {
+      "type": "string"
+    },
+    "CriteriaPlatinum": {
+      "type": "string"
+    },
+    "CriteriaPlatinumlist1": {
+      "type": "string"
+    },
+    "CriteriaPlatinumlist2": {
+      "type": "string"
+    },
+    "CriteriaPlatinumlist3": {
+      "type": "string"
+    },
+    "PlatinumBenefits": {
+      "type": "string"
+    },
+    "PlatinumBenefits1": {
+      "type": "text"
+    },
+    "PlatinumBenefits2": {
+      "type": "text"
+    },
+    "PlatinumBenefits3": {
+      "type": "text"
+    },
+    "PlatinumBenefits4": {
+      "type": "text"
+    },
+    "PlatinumBenefits5": {
+      "type": "text"
+    },
+    "PlatinumBenefits6": {
+      "type": "text"
+    },
+    "PlatinumBenefits7": {
+      "type": "text"
+    },
+    "PlatinumBenefits8": {
+      "type": "text"
+    },
+    "platinumengagement": {
+      "type": "string"
+    },
+    "platinumengagement1": {
+      "type": "text"
+    },
+    "platinumengagement2": {
+      "type": "text"
+    },
+    "PathDiamondTier": {
+      "type": "string"
+    },
+    "PathDiamondTiertxt": {
+      "type": "text"
+    },
+    "DiamondTier": {
+      "type": "string"
+    },
+    "DiamondTierbadge": {
+      "type": "string"
+    },
+    "DiamondTierdesc": {
+      "type": "text"
+    },
+    "PositionDiamondTier": {
+      "type": "string"
+    },
+    "PositionDiamondTiertxt": {
+      "type": "text"
+    },
+    "CriteriaDiamond": {
+      "type": "string"
+    },
+    "CriteriaDiamond1": {
+      "type": "text"
+    },
+    "CriteriaDiamond2": {
+      "type": "text"
+    },
+    "CriteriaDiamond3": {
+      "type": "text"
+    },
+    "Diamondbenefits": {
+      "type": "string"
+    },
+    "Diamondbenefits1": {
+      "type": "text"
+    },
+    "Diamondbenefits2": {
+      "type": "text"
+    },
+    "Diamondbenefits3": {
+      "type": "text"
+    },
+    "Diamondbenefits4": {
+      "type": "text"
+    },
+    "Diamondbenefits5": {
+      "type": "text"
+    },
+    "Diamondbenefits6": {
+      "type": "text"
+    },
+    "Diamondbenefits7": {
+      "type": "text"
+    },
+    "Diamondbenefits8": {
+      "type": "text"
+    },
+    "DaimondEngagement": {
+      "type": "string"
+    },
+    "DaimondEngagement1": {
+      "type": "text"
+    },
+    "DaimondEngagement2": {
+      "type": "text"
+    },
+    "BlueDiamondTier": {
+      "type": "string"
+    },
+    "BlueDiamondbadge": {
+      "type": "string"
+    },
+    "BlueDiamondTierdesc": {
+      "type": "string"
+    },
+    "positionBluedaimond": {
+      "type": "string"
+    },
+    "positionBluedaimondtxt": {
+      "type": "string"
+    },
+    "CriteriaBlueDiamond": {
+      "type": "string"
+    },
+    "CriteriaBlueDiamond1": {
+      "type": "text"
+    },
+    "CriteriaBlueDiamond2": {
+      "type": "text"
+    },
+    "CriteriaBlueDiamond3": {
+      "type": "text"
+    },
+    "BlueDiamondTierBenefits": {
+      "type": "string"
+    },
+    "BlueDiamondBenefits1": {
+      "type": "text"
+    },
+    "BlueDiamondBenefits2": {
+      "type": "text"
+    },
+    "BlueDiamondBenefits3": {
+      "type": "text"
+    },
+    "BlueDiamondBenefits4": {
+      "type": "text"
+    },
+    "BlueDiamondBenefits5": {
+      "type": "text"
+    },
+    "BlueDiamondBenefits6": {
+      "type": "text"
+    },
+    "BlueDiamondBenefits7": {
+      "type": "text"
+    },
+    "BlueDiamondBenefits8": {
+      "type": "text"
+    },
+    "BlueDiamondEngagement": {
+      "type": "string"
+    },
+    "BlueDiamondEngagement1": {
+      "type": "text"
+    },
+    "BlueDiamondEngagement2": {
+      "type": "text"
+    }
+  }
+}

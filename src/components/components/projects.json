@@ -1,0 +1,185 @@
+{
+  "collectionName": "components_components_projects",
+  "info": {
+    "displayName": "projects",
+    "icon": "grid",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Tokenization": {
+      "type": "string"
+    },
+    "ProjectName": {
+      "type": "string"
+    },
+    "ProjectName1": {
+      "type": "string"
+    },
+    "ProjectName2": {
+      "type": "string"
+    },
+    "Listing": {
+      "type": "string"
+    },
+    "ListingTime": {
+      "type": "string"
+    },
+    "TokenInformation": {
+      "type": "string"
+    },
+    "TokenInformation1": {
+      "type": "string"
+    },
+    "TokenInformation2": {
+      "type": "string"
+    },
+    "TokenInformation3": {
+      "type": "string"
+    },
+    "TokenInformation4": {
+      "type": "string"
+    },
+    "TokenInformation5": {
+      "type": "string"
+    },
+    "TeamSection": {
+      "type": "string"
+    },
+    "CastCrew": {
+      "type": "string"
+    },
+    "CastCrew1": {
+      "type": "string"
+    },
+    "CastCrew2": {
+      "type": "string"
+    },
+    "CastCrew3": {
+      "type": "string"
+    },
+    "CastCrew4": {
+      "type": "string"
+    },
+    "CastCrew5": {
+      "type": "string"
+    },
+    "CastCrew6": {
+      "type": "string"
+    },
+    "CastCrew7": {
+      "type": "string"
+    },
+    "TokenSale": {
+      "type": "string"
+    },
+    "TokenPrice": {
+      "type": "string"
+    },
+    "TokenPrice1": {
+      "type": "string"
+    },
+    "TokenPrice2": {
+      "type": "string"
+    },
+    "ClaimSlots": {
+      "type": "string"
+    },
+    "ClaimSlotstxt": {
+      "type": "string"
+    },
+    "vestingtime": {
+      "type": "string"
+    },
+    "vestingtimetxt": {
+      "type": "string"
+    },
+    "SaleRounds": {
+      "type": "string"
+    },
+    "Round1": {
+      "type": "string"
+    },
+    "Round1starttime": {
+      "type": "string"
+    },
+    "Round1endtime": {
+      "type": "string"
+    },
+    "Round2": {
+      "type": "string"
+    },
+    "Round2starttime": {
+      "type": "string"
+    },
+    "Round2endtime": {
+      "type": "string"
+    },
+    "Membership": {
+      "type": "string"
+    },
+    "TieredMembership": {
+      "type": "string"
+    },
+    "TieredMembershiptxt": {
+      "type": "string"
+    },
+    "RewardsIncentives": {
+      "type": "string"
+    },
+    "RewardsIncentives1": {
+      "type": "string"
+    },
+    "RewardsIncentives2": {
+      "type": "string"
+    },
+    "RewardsIncentives3": {
+      "type": "string"
+    },
+    "GovernanceParticipation": {
+      "type": "string"
+    },
+    "GovernanceParticipation1": {
+      "type": "string"
+    },
+    "GovernanceParticipation2": {
+      "type": "string"
+    },
+    "RecognitionPrestige": {
+      "type": "string"
+    },
+    "RecognitionPrestige1": {
+      "type": "string"
+    },
+    "RecognitionPrestige2": {
+      "type": "string"
+    },
+    "SupportNetworking": {
+      "type": "string"
+    },
+    "SupportNetworking1": {
+      "type": "string"
+    },
+    "SupportNetworking2": {
+      "type": "string"
+    },
+    "EarlyAccess": {
+      "type": "string"
+    },
+    "EarlyAccess1": {
+      "type": "string"
+    },
+    "EarlyAccess2": {
+      "type": "string"
+    },
+    "ContributionRecognition": {
+      "type": "string"
+    },
+    "ContributionRecognition1": {
+      "type": "string"
+    },
+    "ContributionRecognition2": {
+      "type": "string"
+    }
+  }
+}
